@@ -10,4 +10,19 @@ package com.vispractice.d3.action;
  */
 public class D3 {
 
+	public String boxPlots(){
+		return "boxPlots";
+	}
+	
+	public String bubbleChart(){
+		return "bubbleChart";
+	}
+	
+	public String bulletCharts(){
+		return "bulletCharts";
+	}
+	
+	public String stackedLayoutWithTimeAxis(){
+		return "stackedLayoutWithTimeAxis";
+	}
 }

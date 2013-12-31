@@ -65,10 +65,11 @@
 
 		</action>
 		
-		<action name="d3!*" class="com.vispractice.d3.action.PersonSaver"
-			method="{1}">
-			<result name="input">/inputpersonsave.jsp</result>
-			<result name="success">/personsaved.jsp</result>
+		<action name="d3!*" class="com.vispractice.d3.action.D3" method="{1}">
+			<result name="boxPlots">/boxPlots.jsp</result>
+			<result name="bubbleChart">/bubbleChart.jsp</result>
+			<result name="bulletCharts">/bulletCharts.jsp</result>
+			<result name="stackedLayoutWithTimeAxis">/stackedLayoutWithTimeAxis.jsp</result>
 		</action>
 
 	</package>
