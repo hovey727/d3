@@ -1,4 +1,4 @@
-times,prices,status: base,power: base,status: peaker,power: peaker,power: wind,load power: Ireland
+times,prices,status: base,power: base,status: peaker,power: peaker,power: wind,power: Ireland
 2010-04-27 00:00:00,30.0,1.0,2197.0,-0.0,0.0,303,2500
 2010-04-27 00:15:00,30.0,1.0,2178.0,1.0,0.0,311,2489
 2010-04-27 00:30:00,30.0,1.0,2092.0,1.0,0.0,340,2432
